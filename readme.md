@@ -1,4 +1,3 @@
-dam
 # Welcome to ORR
 
 Here at ORR we believe that all classes of racing are good classes of racing. Thats why we run various different leagues on Project Cars 2. Despite all of these different leagues, running at different times on different days, we know that a strong community promotes growth and improvements to the individuals it involves. It is due to this family that we have our [Main Discord Server](https://discord.gg/XZpX5BSYwW) along with servers for each of our divisions.
@@ -17,7 +16,7 @@ This championship provides an entirely different challenge for the drivers and i
 
 ## LMP3 Challenge
 
-The _newest_ member of the ORR family is the demanding LMP3 Challenge. 
+The _newest_ member of the ORR family is the demanding LMP3 Challenge. Based around the finest tracks Europe has to offer, the LMP3 Challenge takes place after the Touring Car Championship, giving you a compact and adrenaline filled raceday, if you choose to participate in both disciplines. [LMP3 Challenge Discord Server](https://discord.gg/naCDpeSWxH)
 
 - Bulleted
 - List
