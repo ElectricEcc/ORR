@@ -4,9 +4,9 @@ Here at ORR we believe that all classes of racing are good classes of racing. Th
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ORR IndyCar
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A fan-favourite league of our is the IndyCar Championship. It races at many famous racetracks across the United States of America, capturing the passion and essence of high-speed, high-octane racing. 
 
 ```markdown
 Syntax highlighted code block
