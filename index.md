@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to ORR
 
-You can use the [editor on GitHub](https://github.com/ElectricEcc/ORR-Racing-Leagues/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here at ORR we believe that all classes of racing are good classes of racing. Thats why we run various different leagues on Project Cars 2. Despite all of these different leagues, running at different times on different days, we know that a strong community promotes growth and improvements to the individuals it involves. It is due to this family that we have our [Main Discord Server](https://discord.gg/XZpX5BSYwW) along with servers for each of our divisions.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
